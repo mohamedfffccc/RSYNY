@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220138455828",
+    "firebase_url": "https://rsyny-b4ef2.firebaseio.com",
+    "project_id": "rsyny-b4ef2",
+    "storage_bucket": "rsyny-b4ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220138455828:android:d56422fdbe50c5acfe7801",
+        "android_client_info": {
+          "package_name": "com.openshop.rsyny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220138455828-8rgl3mk15rvpgos8b1hmo4oit4s8dqp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openshop.rsyny",
+            "certificate_hash": "516bd7d74c82a3762a2aeb39999c69f2c62ce289"
+          }
+        },
+        {
+          "client_id": "220138455828-kf6ibal4578chp2opgkjj24btf8arrpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxMTW4WlClAWCFjf-NLX-1Z6UXhO4zczA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220138455828-kf6ibal4578chp2opgkjj24btf8arrpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
